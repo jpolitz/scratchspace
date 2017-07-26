@@ -52,7 +52,7 @@ reflection (this is actually not trivial at all to write out).
 
 Third, 2-d motion based on time; a natural extension of the first example.
 
-![2d motion](http://i.imgur.com/EIKuZa3.gif)
+![2d motion](http://i.imgur.com/b6wu0j2.gif)
 
 Library:
 
