@@ -6,10 +6,9 @@ Note that in the solution files, I've modeled how I would want students to have
 written examples in order to help derive the function body.
 
 
-
 First, simple 1-d motion made into a programming game.
 
-![1d motion](http://imgur.com/ZxIKUgX)
+![1d motion](http://i.imgur.com/ZxIKUgX.gif)
 
 Library:
 
@@ -34,7 +33,7 @@ simple linear motion.
 
 Second, 1-d motion with reflection.
 
-![1d reflection](http://imgur.com/cpq840T)
+![1d reflection](http://i.imgur.com/cpq840T.gif)
 
 Library:
 
@@ -53,7 +52,7 @@ reflection (this is actually not trivial at all to write out).
 
 Third, 2-d motion based on time; a natural extension of the first example.
 
-![2d motion](http://imgur.com/EIKuZa3)
+![2d motion](http://i.imgur.com/EIKuZa3.gif)
 
 Library:
 
@@ -75,7 +74,7 @@ this without doing it differentially.  Note that I change the names of the
 functions here from "x-at-t" to "next-x" and so on, to reflect the differential
 nature.
 
-![2d bounce](http://imgur.com/3s1YUgc)
+![2d bounce](http://i.imgur.com/3s1YUgc.gif)
 
 Library:
 
@@ -89,7 +88,7 @@ https://code.pyret.org/editor#share=0B32bNEogmncOSms0ZW5ic05KN2c&v=64c077c
 Fifth, 2-d differention motion to do free-fall, where the game is to avoid
 obstacles on the way to a target.
 
-![gravity](http://imgur.com/HaFYbkC)
+![gravity](http://i.imgur.com/HaFYbkC.gif)
 
 Library:
 
